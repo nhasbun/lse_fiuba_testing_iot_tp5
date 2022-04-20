@@ -1,0 +1,1 @@
+from compass_middleware.compass_modbus import CompassModbus

@@ -1,0 +1,5 @@
+.eggs/
+*.pyc
+.idea/
+*.egg-info
+.vscode/
